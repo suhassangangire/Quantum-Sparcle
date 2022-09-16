@@ -1,5 +1,5 @@
-# Michael Johnson, 2/15/2017
-# See http://adsabs.harvard.edu/abs/2016ApJ...833...74J for details about this module
+# Suhas Sangangire, 9/15/2022
+
 
 from __future__ import print_function
 from builtins import range

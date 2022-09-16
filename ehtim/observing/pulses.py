@@ -1,7 +1,7 @@
 # pulses.py
 # image restoring pulse functions
 #
-#    Copyright (C) 2018 Katie Bouman
+#    Copyright (C) 2022 Suhas Sangangire
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by
@@ -14,7 +14,7 @@
 #    GNU General Public License for more details.
 #
 #    You should have received a copy of the GNU General Public License
-#    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+#    along with this program. 
 
 # If dom="I", we are in real space, if dom="F" we are in Fourier (uv) space
 # Coordinates in real space are in radian, coordinates in Fourier space are in lambda

@@ -3,7 +3,7 @@
     :platform: Unix
     :synopsis: EHT Imaging Utilities: simulated observation functions
 
-.. moduleauthor:: Andrew Chael (achael@cfa.harvard.edu)
+.. moduleauthor:: Suahs Sangangire (suhassangangire2601@gmail.com)
 
 """
 from . import pulses

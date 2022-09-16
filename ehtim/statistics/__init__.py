@@ -3,7 +3,7 @@
     :platform: Unix
     :synopsis: EHT Imaging Utilities: statistics and DataFrame format
 
-.. moduleauthor:: Maciek Wielgus (mwielgus@cfa.harvard.edu)
+.. moduleauthor:: SUhas Sangnagire (suhassangangire2601@gmail.com)
 
 """
 from . import stats

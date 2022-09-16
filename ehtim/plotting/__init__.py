@@ -3,7 +3,7 @@
     :platform: Unix
     :synopsis: EHT Imaging Utilities: plotting functions
 
-.. moduleauthor:: Andrew Chael (achael@cfa.harvard.edu)
+.. moduleauthor:: Suhas Sangangire (suhassangangire2601@gmail.com)
 
 """
 from . import comp_plots

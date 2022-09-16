@@ -3,7 +3,7 @@
     :platform: Unix
     :synopsis: EHT Imaging Utilities: imaging functions
 
-.. moduleauthor:: Michael Johnson (mjohnson@cfa.harvard.edu)
+.. moduleauthor:: Suhas Sangangire (suhassangangire2601@gmial.com)
 
 """
 

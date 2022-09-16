@@ -3,7 +3,7 @@
     :platform: Unix
     :synopsis: EHT Imaging Utilities
 
-.. moduleauthor:: Andrew Chael (achael@cfa.harvard.edu)
+.. moduleauthor:: Suhas Sangangire (suhassangangire2601@gmial.com)
 
 """
 from __future__ import division

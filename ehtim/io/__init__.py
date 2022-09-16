@@ -3,7 +3,7 @@
     :platform: Unix
     :synopsis: EHT Imaging Utilities: I/O functions
 
-.. moduleauthor:: Andrew Chael (achael@cfa.harvard.edu)
+.. moduleauthor:: Suhas Sangangire (suahssangangire2601@gmail.com)
 
 """
 from . import load
