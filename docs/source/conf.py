@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #
 # ethtim documentation build configuration file, created by
-# sphinx-quickstart on Tue May 16 13:37:05 2017.
+# sphinx-quickstart on fri Sept 16 13:37:05 2022.
 #
 # This file is execfile()d with the current directory set to its
 # containing dir.
